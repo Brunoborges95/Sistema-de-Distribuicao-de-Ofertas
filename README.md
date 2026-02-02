@@ -5,7 +5,7 @@ Aqui está um **README** bem estruturado para o seu projeto:
 # 📌 Sistema de Recomendação de Ofertas com Machine Learning  
 
 ## 📖 Visão Geral  
-Este projeto implementa um sistema de machine learning para prever se uma oferta será concluída após ser enviada para um cliente. Com base nessa previsão, calculamos o **retorno esperado** de cada oferta, ajudando a otimizar as estratégias de engajamento.  
+Este projeto implementa um sistema de machine learning para uma plataforma de food delivery. Tem como objetivo prever se uma oferta será concluída após ser enviada para um cliente. Com base nessa previsão, calculamos o **retorno esperado** de cada oferta, ajudando a otimizar as estratégias de engajamento.  
 
 O retorno esperado para cada **cliente** e **oferta** é definido como:  
 
